@@ -4,6 +4,7 @@
 **cspencerjr/cspencerjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cspencerjr&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D&background=DD2727)](https://git.io/streak-stats)
