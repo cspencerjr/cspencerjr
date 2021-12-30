@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cspencerjr&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&background=080101)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cspencerjr&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
